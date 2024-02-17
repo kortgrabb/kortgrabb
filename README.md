@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **shiiiii- idk**
 
-- 📫 How to reach me **timherdemark86@gmail.com**
-
 - ⚡ Fun fact **Life is sad**
 
 <h3 align="left">Connect with me:</h3>
