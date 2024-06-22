@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kortgrabb&label=Profile%20views&color=0e75b6&style=flat" alt="kortgrabb" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Regmend**
 
 - 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kortgrabb/](https://github.com/kortgrabb/)
-
-- 💬 Ask me about **how to get bitches**
-
-- ⚡ Fun fact **i will steal your girl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
