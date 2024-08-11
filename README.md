@@ -6,15 +6,3 @@
 - 🔭 I’m currently working on **Jot**
 
 - 🌱 I’m currently learning **Rust**
-
-- Contact: timherdemark@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/prouddesk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prouddesk" height="30" width="40" /></a>
-<a href="https://dev.to/kortgrabb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kortgrabb" height="30" width="40" /></a>
-<a href="https://twitter.com/devdesk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devdesk2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kortgrabb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kortgrabb" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kortgrabb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kortgrabb" height="30" width="40" /></a>
-<a href="https://discord.gg/j4we5RbfHN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="j4we5RbfHN" height="30" width="40" /></a>
-</p>
